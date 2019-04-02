@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EjemploSpinner</string>
+    <string name="lblSpinner">Seleccione país</string>
+    <string name="lblSpinner2">Seleccione ciudad</string>
+</resources>
